@@ -37,9 +37,6 @@
         <activity
             android:name=".FaceExpression"
             android:exported="false"/>
-        <activity android:name=".ModelViewer3D"
-            android:exported="false"/>
-
         <service
             android:name=".MyFirebaseMessagingService"
             android:exported="false">

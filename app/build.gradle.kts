@@ -54,6 +54,4 @@ dependencies {
     implementation("com.github.bumptech.glide:glide:4.16.0")
     annotationProcessor("com.github.bumptech.glide:compiler:4.16.0")
     implementation("com.getkeepsafe.taptargetview:taptargetview:1.14.0")
-    implementation("com.gorisse.thomas.sceneform:sceneform:1.21.0")
-    implementation("com.google.ar:core:1.48.0")
 }
