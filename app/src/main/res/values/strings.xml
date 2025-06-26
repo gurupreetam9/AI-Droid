@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AI-Droid</string>
+    <string name="app_bg">Ai-droid background</string>
+    <string name="join"><b><u>Join Now</u></b></string>
+    <string name="info">Info</string>
+    <string name="faceExpression">Face Expression</string>
+    <string name="info_text">
+        AI-Droid is a club we recently established. In this club, you\'ll have the opportunity to learn how to create apps using Android Studio.\n\n
+        We named our club AI-Droid because we\'ll also focus on developing <u><b>machine learning (ML)</b></u> and <u><b>deep learning (DL)</b></u> models, which we\'ll later integrate into our apps.\n\n
+        Additionally, we\'ll teach you how to create better <u><b>UI/UX</b></u> designs, use <u><b>GitHub</b></u>, implement <u><b>NoSQL for cloud storage</b></u>, and explore other relevant technologies when possible.\n\n
+        Join our club to create and share fun, professional apps with your friends!\n\n
+        <b>Pre-requisites: Basics of Java</b>
+    </string>
+</resources>

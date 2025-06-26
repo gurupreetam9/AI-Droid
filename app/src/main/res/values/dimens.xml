@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="info_size">32dp</dimen>
+    <dimen name="margin_standard">12dp</dimen>
+    <dimen name="guideline_bottom">0.90</dimen>
+    <dimen name="button_width">340dp</dimen>
+    <dimen name="button_height">110dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852725532157",
+    "project_id": "ai-droid-srkit",
+    "storage_bucket": "ai-droid-srkit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852725532157:android:8cd9a4803b5e2e63550594",
+        "android_client_info": {
+          "package_name": "com.example.ai_droid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnuTpEioPilQXKEj1BmRmU92Q8h6rYLrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
