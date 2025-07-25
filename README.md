@@ -1,9 +1,9 @@
 Developed a native Android app for the AI-Droid Club to manage student onboarding, notifications, and
- live facial emotion detection.\n
- • Designed a user-friendly UI and app logo in Figma with seamless branding and interaction.\n
- • Enabled “Join Now” feature that triggers an email intent for student registration.
- • Used TensorFlow Lite + OpenCV to perform live camera-based facial emotion analysis.
- • Integrated Firebase Cloud Messaging to send notifications from the admin panel to users.
+ live facial emotion detection.<br>
+ • Designed a user-friendly UI and app logo in Figma with seamless branding and interaction.<br>
+ • Enabled “Join Now” feature that triggers an email intent for student registration.<br>
+ • Used TensorFlow Lite + OpenCV to perform live camera-based facial emotion analysis.<br>
+ • Integrated Firebase Cloud Messaging to send notifications from the admin panel to users.<br>
 
 <img width="200" height="700" alt="image" src="https://github.com/user-attachments/assets/178c8fc0-4d70-4b99-aa48-58b7be972865" /> 
 <img width="200" height="700" alt="image" src="https://github.com/user-attachments/assets/1d394c70-4e05-47ef-8585-8c226f311fd1" />
